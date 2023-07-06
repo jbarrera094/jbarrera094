@@ -1,6 +1,7 @@
-# ![https://mouredev.com](./jbarrera094_emote.png) Hi! I'm Jeisson Barrera 👋
+# ![https://github.com/jbarrera094](./jbarrera094_emote.png) Hi! I'm Jeisson Barrera 👋
 ### Freelance full-stack Web 2.0/3.0 and Flutter developer 
 
+![https://github.com/jbarrera094](./jbarrera094_banner.gif)
 
 As a computer systems engineer with an intermediate level of English and high proficiency in databases such as MySQL, Postgres, Mongo and Firebase, I have excelled academically in both university and college. I have over a three year of experience in the development and implementation of an E-Learning platform called Urbanik-Hub, and I have also worked as a teaching assistant and computer maintenance technician.
 
@@ -36,4 +37,4 @@ If you are looking for a highly motivated and skilled computer systems engineer 
 And a few more...
 
 ![https://github.com/jbarrera094](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jbarrera094&theme=github_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jbarrera094&theme=github_dark)
+<!-- ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jbarrera094&theme=github_dark) -->
