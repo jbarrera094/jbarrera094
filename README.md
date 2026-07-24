@@ -20,7 +20,6 @@ As a Engineer with 6+ years of experience building enterprise web applications u
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jbarrera094&theme=github_dark" alt="https://github.com/jbarrera094"/>
 <h2>Skills</h2>
-<span>━━━━━━━━ ☆ ★ ☆ ━━━━━━━━</span>
 <a href="https://github.com/jbarrera094"><img  src="https://simpleskill.icons.workers.dev/svg?i=html5,css,javascript,typescript,react,python,django,flutter,figma,laravel,next.js,node.js,astro"></a>
 </div>
 
