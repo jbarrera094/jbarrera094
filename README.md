@@ -17,26 +17,25 @@ As a Engineer with 6+ years of experience building enterprise web applications u
   </span>
 </p>
 
-![https://github.com/jbarrera094](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jbarrera094&theme=github_dark)
-
-<!-- ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jbarrera094&theme=github_dark) -->
-
-<div align=center>
-    <div id="toc">
-        <ul style="list-style: none">
-            <summary>
-            <h2>Skills</h2>
-            </summary>
-            ━━━━━━━━ ☆ ★ ☆ ━━━━━━━━
-        </ul>
-    </div>
-    <a href="https://github.com/jbarrera094"><img  src="https://simpleskill.icons.workers.dev/svg?i=html5,css,javascript,typescript,react,python,django,flutter,figma,laravel,next.js,node.js,astro"></a>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jbarrera094&theme=github_dark" alt="https://github.com/jbarrera094"/>
+<h2>Skills</h2>
+<span>━━━━━━━━ ☆ ★ ☆ ━━━━━━━━</span>
+<a href="https://github.com/jbarrera094"><img  src="https://simpleskill.icons.workers.dev/svg?i=html5,css,javascript,typescript,react,python,django,flutter,figma,laravel,next.js,node.js,astro"></a>
 </div>
 
 <div id="toc" align=center>
-    <h2>Let's Connect!</h2>
+<h2>Let's Connect!</h2>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeisson_Barrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jbarrera094)
-[![Web](https://img.shields.io/badge/Web-jbarrera094.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jbarrera094.com)
-[![EMAIL](https://img.shields.io/badge/Email-jbarrera094@gmail.com-14a1f0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jbarrera094@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jbarrera094">
+    <img src="https://img.shields.io/badge/LinkedIn-Jeisson_Barrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" />
+  </a>
+  <a href="https://jbarrera094.com">
+    <img src="https://img.shields.io/badge/Web-jbarrera094.com-181717?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" alt="Web" />
+  </a>
+  <a href="mailto:jbarrera094@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jbarrera094@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" />
+  </a>
+</p>
